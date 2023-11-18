@@ -5,3 +5,6 @@
 - test and comparison with pywt : `example.ipynb`
 
 
+## todo
+
+- to check boundary condition.
